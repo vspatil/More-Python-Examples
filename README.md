@@ -1,4 +1,4 @@
-This repo contains miscellanious Examples
+This repo contains miscellaneous Examples
 
 Factorial of a given number
 
